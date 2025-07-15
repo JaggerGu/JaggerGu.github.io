@@ -30,12 +30,14 @@ You can find my Google Scholar statistics here: <a href='https://scholar.google.
 - *2025.07*: &nbsp;🎉🎉 Our paper **CoseDet: Open-Vocabulary Remote Sensing Object Detection With Contextual Semantic Information** has been submitted to **IEEE J-STARS**.
 - *2024.01*: &nbsp;🎉🎉 Joined **Micron Technology** as a Data Science Intern, working on smart manufacturing and edge AI deployment.
 - *2023.09*: &nbsp;🎉🎉 Started my master's at **Xidian University**, received the top-tier Freshmen Scholarship.
+- *2022.06*: &nbsp;🎉🎉 Our paper **Dynamic Characteristics Monitoring of Large Wind Turbine Blades Based on Target-free DSST Vision Algorithm and UAV** has been published in **Remote Sensing**.
+- *2019.09*: &nbsp;🎉🎉 Started my Bachelor's at **Lanzhou University of Technology**.
 
 # 📝 Publications
 
-- **Gu Jiaze**, et al. *CoseDet: Open-Vocabulary Remote Sensing Object Detection With Contextual Semantic Information*, submitted to IEEE J-STARS, 2025. *(First Author, Corresponding)*
+- **Jiaze Gu**, Lulin Fan, Jing Zhao and Xianghai Cao. *CoseDet: Open-Vocabulary Remote Sensing Object Detection With Contextual Semantic Information*, submitted to IEEE J-STARS, 2025. *(First Author, Corresponding)*
 
-- **Gu Jiaze**, et al. *Dynamic Characteristics Monitoring of Large Wind Turbine Blades Based on Target-free DSST Vision Algorithm and UAV*, Remote Sensing, 2022. [DOI:10.3390/rs14133113](https://doi.org/10.3390/rs14133113) *(Second Author)*
+- Wanrun Li, Wenhai Zhao, **Jiaze Gu**, Boyuan Fan, Yongfeng Du. *Dynamic Characteristics Monitoring of Large Wind Turbine Blades Based on Target-free DSST Vision Algorithm and UAV*, Remote Sensing, 2022. [DOI:10.3390/rs14133113](https://doi.org/10.3390/rs14133113) *(Second Student Author)*
 
 # 🎖 Honors and Awards
 - *2024*: National Third Prize, Postgraduate Mathematical Modeling Competition  
