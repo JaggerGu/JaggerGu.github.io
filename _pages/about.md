@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Gu Jiaze"
+excerpt: "Master's student at Xidian University | Remote Sensing | Computer Vision | Multimodal Detection"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Gu Jiaze (顾稼泽)**, a master's student in Artificial Intelligence at Xidian University, supervised by the IPIU Key Laboratory of the Ministry of Education. I received my B.E. degree in Computer Science and Technology from Lanzhou University of Technology in 2023. My current research focuses on open-vocabulary and multimodal remote sensing object detection, especially in tasks like small object detection and rotated bounding boxes. I have published as first author and corresponding author in top-tier journals such as **IEEE J-STARS** and **Remote Sensing**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include:
+- Multimodal and open-vocabulary object detection
+- Remote sensing image understanding
+- Lightweight and efficient deployment on edge devices
 
+You can find my Google Scholar statistics here: <a href='https://scholar.google.com/citations?user=hHNo4i0AAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=hHNo4i0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 Our paper **CoseDet: Open-Vocabulary Remote Sensing Object Detection With Contextual Semantic Information** has been submitted to **IEEE J-STARS**.
+- *2024.01*: &nbsp;🎉🎉 Joined **Micron Technology** as a Data Science Intern, working on smart manufacturing and edge AI deployment.
+- *2023.09*: &nbsp;🎉🎉 Started my master's at **Xidian University**, received the top-tier Freshmen Scholarship.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Gu Jiaze**, et al. *CoseDet: Open-Vocabulary Remote Sensing Object Detection With Contextual Semantic Information*, submitted to IEEE J-STARS, 2025. *(First Author, Corresponding)*
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Gu Jiaze**, et al. *Dynamic Characteristics Monitoring of Large Wind Turbine Blades Based on Target-free DSST Vision Algorithm and UAV*, Remote Sensing, 2022. [DOI:10.3390/rs14133113](https://doi.org/10.3390/rs14133113) *(Second Author)*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*: National Third Prize, Postgraduate Mathematical Modeling Competition  
+- *2024*: Second-class Academic Scholarship, Xidian University  
+- *2023*: Freshmen Special Scholarship, Xidian University  
+- *2022*: First Prize (Provincial), Tianchi C++ Programming Contest  
+- *2022*: Gold Medal, Gansu Province Internet+ Innovation and Entrepreneurship Competition  
+- *2021*: First Prize, Lanqiao Cup C++ Programming (Provincial)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.06*, **M.E., Artificial Intelligence**, Xidian University, GPA: 4.08/5.00 (Top 10/96)  
+- *2019.09 - 2023.06*, **B.E., Computer Science and Technology**, Lanzhou University of Technology, GPA: 3.92/5.00 (Top 6/214)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # 💬 Invited Talks
+- *To be updated* -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.05 - 2025.11*, **Computer Vision Intern**, HONOR Device Co., Ltd.  
+  - Developed night photography denoising algorithms for HONOR smartphones.
+
+- *2024.01 - 2024.07*, **Data Science Intern**, Micron Technology  
+  - **Project 1**: Detected walking-while-using-phone behavior using YOLOv8 and MediaPipe-based keypoint estimation (mAP<sub>50–95</sub>: 72%).  
+  - **Project 2**: Built chip misalignment detection pipeline using 5000+ images, optimized YOLOv8 deployment on Raspberry Pi 5 (mAP<sub>50–95</sub>: 81%, FPS: 1–3 → 15–25 using quantization and multithreading).
+
+# 🧪 Research Projects
+- **Open-Vocabulary Multimodal Remote Sensing Detection** (2024.09 - 2025.12)  
+  - Funded by NSFC. Tackled limitations of closed-label remote sensing detection. Leveraged RemoteCLIP for visual-text alignment, attention-based scale adaptation, and contextual modeling.  
+  - Outcome: 1 first-author submission to IEEE J-STARS.
+
+- **Monitoring Wind Turbine Blades with UAV + Computer Vision** (2022.01 - 2023.03)  
+  - Led national-level innovation project using UAV-based image tracking, YOLOv8, DSST filter. Proposed adaptive displacement compensation method.  
+  - Result: 1 second-author SCI paper in *Remote Sensing*.
+
+# 🛠 Skills
+- **Languages**: Python, C++, English (CET-6: 491)  
+- **Frameworks**: PyTorch, TensorFlow, OpenCV  
+- **Algorithms**: CNN, Transformer, object detection, image processing  
+- **Soft Skills**: Team collaboration, cross-cultural communication, fast learning under pressure
